@@ -22,8 +22,8 @@ A responsive and interactive AI chatbot web application built using **React.js**
 
 > Add your screenshots here if available. Example:
 >
-> ![Home Screen](screenshots/home.png)
-> ![Chat Interface](screenshots/chat.png)
+> ![Home Screen](https://github.com/santhosht99/Gemini-Ai/issues/1#issue-3113933974)
+
 
 ## 📂 Folder Structure
 ```plaintext
