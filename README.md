@@ -20,8 +20,7 @@ A responsive and interactive AI chatbot web application built using **React.js**
 
 ## 📸 Screenshots
 
-> Add your screenshots here if available. Example:
->
+
 > ![Home Screen](https://github.com/santhosht99/Gemini-Ai/issues/1#issue-3113933974)
 
 
