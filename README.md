@@ -15,8 +15,8 @@ A responsive and interactive AI chatbot web application built using **React.js**
 
 - **Frontend**: React.js, JavaScript, CSS
 - **API**: Gemini (Google AI)
-- **State Management**: useState, useEffect
-- **Deployment**: (Optional) Netlify / Vercel / GitHub Pages
+
+
 
 ## 📸 Screenshots
 
@@ -26,4 +26,15 @@ A responsive and interactive AI chatbot web application built using **React.js**
 > ![Chat Interface](screenshots/chat.png)
 
 ## 📂 Folder Structure
-
+```plaintext
+gemini-clone/
+├── public/
+├── src/
+│ ├── components/
+│ │ └── ChatBox.js
+│ ├── App.js
+│ ├── index.js
+│ └── App.css
+├── .env
+├── package.json
+└── README.md
